@@ -59,7 +59,7 @@ $(document).ready(function(){
       'scrollTop': contact_top
     },'slow');
   })
-//
+
 $('.sns_logo').click(function(){
   var urlList = ['https://www.instagram.com/mid_id_tokyo/','https://twitter.com/MIDiD_tokyo',
 'https://www.pinterest.jp/mididtokyo/','https://www.facebook.com/midid.midid.96742'];
